@@ -1,0 +1,6 @@
+bin
+pkg
+sk88_json
+csv/day/*.csv
+*.exe
+*.json

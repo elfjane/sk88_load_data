@@ -1,0 +1,13 @@
+[global]
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
+uuid = "kfbzfdbor2crqmr4fdbor2ca"
+
+[database]
+host = "52.197.42.152"
+username = "root"
+password = "1234"
+database = "stock"
+
+[twse_day_csv]
+save_path = "csv/day"
+twse_url = "https://www.twse.com.tw/exchangeReport/MI_INDEX"
